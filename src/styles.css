@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .task-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .task-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .task-detail {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
